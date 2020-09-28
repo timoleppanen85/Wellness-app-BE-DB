@@ -1,0 +1,6 @@
+D:\dev\WompattiDB\WompattiDB\bin\Debug\WompattiDB.dacpac
+D:\dev\WompattiDB\WompattiDB\bin\Debug\WompattiDB.dll
+D:\dev\WompattiDB\WompattiDB\bin\Debug\WompattiDB.pdb
+D:\dev\WompattiDB\WompattiDB\obj\Debug\WompattiDB.sqlprojAssemblyReference.cache
+D:\dev\WompattiDB\WompattiDB\obj\Debug\WompattiDB.dll
+D:\dev\WompattiDB\WompattiDB\obj\Debug\WompattiDB.pdb
