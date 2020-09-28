@@ -1,0 +1,41 @@
+﻿{
+   "ContextClassName": "WompattidbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "WompattiApi",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Admin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Answer]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Question]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Subject]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User]"
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false
+}
