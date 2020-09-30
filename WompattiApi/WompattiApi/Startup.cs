@@ -67,6 +67,8 @@ namespace WompattiApi
 
             app.UseRouting();
 
+            app.UseCors("AllowAnyPolicy");
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
