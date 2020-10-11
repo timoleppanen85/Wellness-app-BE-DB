@@ -18,6 +18,7 @@ namespace WompattiApi.Models
         [Required]
         public string Role { get; set; }
         [Required]
+        [StringLength(50)]
         public string Hash { get; set; }
     }
 }

@@ -23,6 +23,7 @@ namespace WompattiApi.Models
         public string Header3 { get; set; }
         public string Header4 { get; set; }
         public bool Hidden { get; set; }
+        public string Image { get; set; }
 
         [InverseProperty("Subject")]
         public virtual ICollection<Question> Question { get; set; }
