@@ -6,5 +6,6 @@
     [Header2] NVARCHAR(MAX) NULL, 
     [Header3] NVARCHAR(MAX) NULL, 
     [Header4] NVARCHAR(MAX) NULL, 
-    [Hidden] BIT NOT NULL DEFAULT 0
+    [Hidden] BIT NOT NULL DEFAULT 0, 
+    [Image] NVARCHAR(MAX) NULL
 )
