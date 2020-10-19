@@ -12,4 +12,5 @@ Need to specify which context to use as project has 2 databases
 nuget package manager -> 
 
 "add-migration Initial -Context ApplicationDbContext"
+
 "update datase -Context ApplicationDbContext"
