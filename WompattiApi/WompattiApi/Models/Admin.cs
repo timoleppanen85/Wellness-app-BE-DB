@@ -10,14 +10,10 @@ namespace WompattiApi.Models
     {
         [Key]
         public long Id { get; set; }
-        [Required]
         [StringLength(50)]
         public string Username { get; set; }
-        [Required]
         public string Email { get; set; }
-        [Required]
         public string Role { get; set; }
-        [Required]
         [StringLength(50)]
         public string Hash { get; set; }
     }

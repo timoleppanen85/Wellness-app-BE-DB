@@ -17,6 +17,8 @@ namespace WompattiApi.Models
         public long Id { get; set; }
         [Required]
         public string Title { get; set; }
+        public string Header1 { get; set; }
+        public string Header2 { get; set; }
         [Required]
         public string Image { get; set; }
         public string Option1 { get; set; }
