@@ -13,4 +13,4 @@ nuget package manager ->
 
 "add-migration Initial -Context ApplicationDbContext"
 
-"update datase -Context ApplicationDbContext"
+"update-database -Context ApplicationDbContext"
